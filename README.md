@@ -15,7 +15,7 @@ _____
 
 
 ### **Demo Screenshots**
-#####DogDash
+##### DogDash
 * A sneak peek at the main page!
 ![DogDash](./assets/images/demo.png)
 
